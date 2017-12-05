@@ -1,7 +1,4 @@
 language: java
 jdk:
   - oraclejdk8
-<<<<<<< HEAD
 script: ant build
-=======
->>>>>>> 6c4b62ea29423268672acab68473d3ba5fe05fed
