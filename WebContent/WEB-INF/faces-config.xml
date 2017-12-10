@@ -15,5 +15,10 @@
 		<managed-bean-class>test.controller.TodoController</managed-bean-class>
 		<managed-bean-scope>session</managed-bean-scope>
 	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>todoController2</managed-bean-name>
+		<managed-bean-class>test.controller.TodoController</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
 
 </faces-config>
